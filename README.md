@@ -1,0 +1,2 @@
+# herlanzin-
+Script de termux
