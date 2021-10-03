@@ -1,2 +1,2 @@
-# herlanzin-
-Script de termux
+apt install python 
+apt install
